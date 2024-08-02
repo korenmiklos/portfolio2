@@ -1,0 +1,59 @@
+---
+title: Koren.dev
+description: Lorem ipsum dolorem
+#url: https://koren.dev
+baseurl: 
+lang: en
+permalink: "/:title/"
+
+remote_theme: korenmiklos/remote-theme
+
+website: courses # options: blog | courses | publications
+
+google_analytics: 
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+- jekyll-seo-tag
+- jekyll-remote-theme
+
+exclude:
+- vendor
+- ".bundle"
+- ".sass-cache"
+- config
+- Gemfile
+- Gemfile.lock
+- node_modules
+- log
+- tmp
+- Rakefile
+- package.json
+- CHANGELOG
+- LICENSE
+- README
+- "/docs"
+
+livereload: true
+
+collections:
+  publications:
+    output: false
+  courses:
+    output: true
+    permalink: /:collection/:name
+  posts:
+    output: false
+  software:
+    output: false
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: courses
+    values:
+      layout: course
+
