@@ -1,0 +1,51 @@
+# File: .github/workflows/update-from-data.yml
+name: Update from Data Repository
+
+on:
+  repository_dispatch:
+    types: [update-from-data]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout portfolio repository
+        uses: actions/checkout@v3
+
+      - name: Checkout data repository
+        uses: actions/checkout@v3
+        with:
+          repository: korenmiklos/remote-theme
+          path: temp-data
+
+      - name: Copy files from data repository
+        run: |
+          # List of files and folders to copy (customize for each portfolio)
+          files_to_copy=(
+            "_courses"
+            "_data"
+            "_software"
+            "_publications"
+            "software.md"
+            "home-courses.md"
+            "search-courses.json"
+            # Add more files or folders as needed
+          )
+
+          for item in "${files_to_copy[@]}"; do
+            cp -R "temp-data/$item" .
+          done
+          
+          if [ -f "home-courses.md" ]; then
+            mv home-courses.md index.md
+          else
+            echo "home-courses.md not found, skipping rename"
+          fi
+          
+      - name: Commit and push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Update from data repository" || echo "No changes to commit"
+          git push
