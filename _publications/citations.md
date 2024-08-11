@@ -13,7 +13,7 @@ sponsors: []
 title: "Fürdővízzel a gyereket?"
 date: 2022-12-07
 tags:
-  - "other_publications"
+  - other
 description: ""
 
 ---

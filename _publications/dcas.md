@@ -16,7 +16,7 @@ sponsors: []
 title: "Data and Code Availability Standard"
 date: 2022-12-15
 tags:
-  - "other_publications"
+  - other
 description: "DCAS is a standard for sharing research code and data, endorsed by leading journals in social sciences. It is maintained by the Social Science Data Editors."
 
 ---

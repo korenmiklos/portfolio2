@@ -19,7 +19,7 @@ sponsors: []
 title: "Diversification through Trade"
 date: "2020-02-01"
 tags:
-  - "peer-reviewed_publications"
+  - reviewed
 description: "A widely held view is that openness to international trade leads to higher income volatility, as trade increases specialization and hence exposure to sector-specific shocks. Contrary to this common wisdom, we argue that when country-wide shocks are important, openness to international trade can lower income volatility by reducing exposure to domestic shocks, and allowing countries to diversify the sources of demand and supply across countries. Using a quantitative model of trade, we assess the importance of the two mechanisms (sectoral specialization and cross-country diversification) and show that in recent decades international trade has reduced economic volatility for most countries.\n"
 
 ---

@@ -15,7 +15,7 @@ sponsors: []
 title: "Still standing: how European firms weathered the crisis - The third EFIGE policy report"
 date: "2011-12-22"
 tags:
-  - "other_publications"
+  - other
 description: "This policy report asks how the Great Recession impacted European firms. There is a large amount of heterogeneity across countries and firms in the way they were affected by or responded to the crisis. We use the unique firm-level dataset compiled from the EFIGE Survey to uncover this heterogeneity. We find that exporters contracted more than non-exporters, while importers, those that outsource some of their production or have an affiliate suffered less of a decline. This raises an important policy trade-off. On the one hand, while export oriented strategies may improve competitiveness, they also bring about a greater exposure to foreign crisis. The flip side of the same trade-off is that outsourcing to other countries has distinct stabilisation benefits. Dominant firms centrally placed in the technology, trade and ownership network, fared better. Further, we find that firms relying on external finance and experiencing financial constraints to growth experienced a greater sales decline.\n"
 
 ---

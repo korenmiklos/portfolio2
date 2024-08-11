@@ -12,7 +12,7 @@ sponsors: []
 title: "A minimálbér költségvetési hatásai"
 date: 2004-01-01
 tags:
-  - "peer-reviewed_publications"
+  - reviewed
 description: ""
 
 ---

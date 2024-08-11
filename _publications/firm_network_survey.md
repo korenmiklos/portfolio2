@@ -14,7 +14,7 @@ sponsors: []
 title: "Cégek kapcsolati hálózatainak gazdasági szerepe"
 date: 2014-11-13
 tags:
-  - "peer-reviewed_publications"
+  - reviewed
 description: "A közgazdaságtanban általában a cégekre olyan szereplőkként gondolunk, amelyek csak anonim piaci mechanizmuson keresztül érintkeznek egymással. Ezzel szemben a valóságban a cégek életében fontos szerepet játszanak a gazdaság más, konkrét szereplőivel meglévő kapcsolataik. Tanulmányunkban a vállalati hálózatok közgazdaságtanának elméleti és empirikus irodalmát összegezzük. Az áttekintett művek szerint a vállalati kapcsolatok hálózati jellege pozitív és negatív hatást egyaránt gyakorol a gazdaság egészére. A mikroszintű adatok újszerű vizsgálataiból pedig gazdag kép bontakozik ki a vállalatok viselkedéséről, például a technológiai fejlődés, a hitelezés, az ellátási láncok vagy akár a korrupció szempontjából.\n"
 
 ---

@@ -10,7 +10,7 @@ sponsors: []
 title: "Mely iparágakban és régiókban van lehetőség hosszú távon is távmunkára?"
 date: 2021-12-20
 tags:
-  - "other_publications"
+  - other
 description: ~
 
 ---
