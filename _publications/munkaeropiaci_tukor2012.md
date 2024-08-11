@@ -1,3 +1,4 @@
+---
 cite: |-
   Koren Miklós és Tóth Péter. 2012. "A külkereskedelem hatása a vállalati munkaerőre és a bérek alakulására"
 links:
@@ -9,7 +10,7 @@ team:
   - "toth"
 sponsors: []
 title: "A külkereskedelem hatása a vállalati munkaerőre és a bérek alakulására"
-date: "2012-08-01"
+date: 2012-08-01
 tags:
   - "other_publications"
 description: ""

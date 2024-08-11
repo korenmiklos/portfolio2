@@ -1,3 +1,4 @@
+---
 cite: |-
   Miklós Koren and Péter Tóth. 2013. "The impact of international trade on employment and wages"
 links:
@@ -9,7 +10,7 @@ team:
   - "toth"
 sponsors: []
 title: "The impact of international trade on employment and wages"
-date: "2013-05-01"
+date: 2013-05-01
 tags:
   - "other_publications"
 description: ""

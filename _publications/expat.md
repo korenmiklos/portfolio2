@@ -1,3 +1,4 @@
+---
 cite: |-
   Miklós Koren and Álmos Telegdy. 2024. "Expatriate Managers: Effects on Firm Performance"
 links:

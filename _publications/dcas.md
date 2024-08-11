@@ -1,3 +1,4 @@
+---
 cite: |-
   Koren, Miklós, Connolly, Marie, Lull, Joan, and Vilhuber, Lars. 2022. "Data and Code Availability Standard"
 links:
@@ -13,7 +14,7 @@ team:
   - "vilhuber"
 sponsors: []
 title: "Data and Code Availability Standard"
-date: "2022-12-15"
+date: 2022-12-15
 tags:
   - "other_publications"
 description: "DCAS is a standard for sharing research code and data, endorsed by leading journals in social sciences. It is maintained by the Social Science Data Editors."
