@@ -1,6 +1,6 @@
 ---
 cite: |-
-  . 2007. "Volatility and Development" Quarterly Journal of Economics. 122(1), pp. 243-287.
+  Koren, Miklós and Silvana Tenreyro. 2007. "Volatility and Development" Quarterly Journal of Economics. 122(1), pp. 243-287.
 links:
   - text: "Full text (open access)"
     url: "https://zenodo.org/record/1441497"

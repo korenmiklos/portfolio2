@@ -1,5 +1,6 @@
+---
 cite: |-
-  Roc Armenter and Miklós Koren. 2013. "Everything all the time? Entry and Exit in U.S. Import Varieties"
+  Armenter, Roc and Miklós Koren. 2013. "Everything all the time? Entry and Exit in U.S. Import Varieties"
 links:
   - text: "First draft"
     url: "http://econ.la.psu.edu/papers/Armenter040113.pdf"

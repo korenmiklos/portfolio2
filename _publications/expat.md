@@ -1,9 +1,9 @@
 ---
 cite: |-
-  Miklós Koren and Álmos Telegdy. 2024. "Expatriate Managers: Effects on Firm Performance"
+  Koren, Miklós and Álmos Telegdy. 2024. "Expatriate Managers: Effects on Firm Performance"
 links:
-  - text: "Manuscript"
-    url: "http://miklos.koren.hu/static/pdf/expat.pdf"
+  - text: CESifo Working Paper
+    url: "https://www.cesifo.org/DocDL/cesifo1_wp11164.pdf"
 statement: ""
 team:
   - "koren"

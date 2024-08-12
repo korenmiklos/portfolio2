@@ -1,17 +1,17 @@
 ---
 cite: |-
-  Roc Armenter and Miklós Koren. 2013. "A Balls-and-Bins Model of Trade" American Economic Review. 104(7), pp. 2127-2151.
+  Armenter, Roc and Miklós Koren. 2013. "A Balls-and-Bins Model of Trade" American Economic Review. 104(7), pp. 2127-2151.
 links:
   - text: "Full text"
-    url: "http://miklos.koren.hu/static/pdf/balls_and_bins/manuscript.pdf"
+    url: "https://cdn.thnk.ng/pdf/balls_and_bins/manuscript.pdf"
   - text: "Online appendix"
-    url: "http://miklos.koren.hu/static/pdf/balls_and_bins/appendix.pdf"
+    url: "https://cdn.thnk.ng/pdf/balls_and_bins/appendix.pdf"
   - text: "Replication data and code"
-    url: "http://miklos.koren.hu/static/pdf/balls_and_bins/AER-MS-20101454-replication.zip"
+    url: "https://cdn.thnk.ng/pdf/balls_and_bins/AER-MS-20101454-replication.zip"
   - text: "A comment by Blum, Claro and Horstmann (2015)"
     url: "http://www-2.rotman.utoronto.ca/bblum/MS_AER-2014-0372_Manuscript_Final_Version.pdf"
   - text: "Our reply to Blum, Claro and Horstmann (2015)"
-    url: "/papers/peer_reviewed_publications/bb_reply/"
+    url: "bb-reply"
 statement: ""
 team:
   - "armenter"

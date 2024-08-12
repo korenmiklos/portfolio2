@@ -1,10 +1,9 @@
 ---
 cite: |-
-  Miklós Koren, Márton Csillag and János Köllő. 2020. "Machines and Machinists: Incremental technical change and wage inequality
-  "
+  Koren, Miklós, Márton Csillag and János Köllő. 2020. "Machines and Machinists: Incremental technical change and wage inequality." Working Paper.
 links:
   - text: "Full text"
-    url: "/static/pdf/machines.pdf"
+    url: "https://cdn.thnk.ng/pdf/machines.pdf"
 statement: ""
 team:
   - "koren"

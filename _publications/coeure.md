@@ -1,6 +1,6 @@
 ---
 cite: |-
-  Cecília Hornok and Miklós Koren. 2015. "Trade and Development in a Globalized World: The Roadmap for a Research Agenda"
+  Hornok, Cecília and Miklós Koren. 2015. "Trade and Development in a Globalized World: The Roadmap for a Research Agenda"
 links:
   - text: "Full text"
     url: "https://www.dropbox.com/s/x2yefhltcwpmrmb/hornok-koren.pdf?dl=1"

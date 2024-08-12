@@ -1,6 +1,6 @@
 ---
 cite: |-
-  Miklós Koren and Rita Pető. 2020. "Business disruptions from social distancing" PLoS ONE. 15(9), pp. e0239113.
+  Koren, Miklós and Rita Pető. 2020. "Business disruptions from social distancing" PLoS ONE. 15(9), pp. e0239113.
 links:
   - text: "Full text (open access, HTML)"
     url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239113"

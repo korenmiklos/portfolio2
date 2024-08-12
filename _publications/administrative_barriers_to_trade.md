@@ -1,9 +1,9 @@
 ---
 cite: |-
-  Cecília Hornok and Miklós Koren. 2015. "Administrative Barriers to Trade" Journal of International Economics. 96(S1), pp. S110-S122.
+  Hornok, Cecília and Miklós Koren. 2015. "Administrative Barriers to Trade" Journal of International Economics. 96(S1), pp. S110-S122.
 links:
   - text: "Full text (pdf)"
-    url: "/static/pdf/administrative_barriers_to_trade.pdf"
+    url: "https://cdn.thnk.ng/pdf/administrative_barriers_to_trade.pdf"
   - text: "Link to publisher website (unrestricted open access)"
     url: "http://dx.doi.org/10.1016/j.jinteco.2015.01.002"
 statement: ""

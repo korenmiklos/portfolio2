@@ -1,9 +1,9 @@
 ---
 cite: |-
-  Koren Miklós és Tóth Péter. 2012. "A külkereskedelem hatása a vállalati munkaerőre és a bérek alakulására"
+  Koren Miklós és Tóth Péter. 2012. "A külkereskedelem hatása a vállalati munkaerőre és a bérek alakulására", in Fazekas Károly, Benczúr Péter, Telegdy Álmos (szerk.) Munkaerőpiaci Tükör 2012. Budapest: Közgazdaság- és Regionális Tudományi Kutatóközpont, 2012. 2. kötet, 4. fejezet, pp. 249-274.
 links:
   - text: "Tanulmány"
-    url: "http://econ.core.hu/file/download/mt_2012_hun/kozel2.pdf"
+    url: "https://kti.krtk.hu/file/download/mt_2012_hun/kozel2.pdf"
 statement: ""
 team:
   - "koren"

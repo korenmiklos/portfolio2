@@ -1,6 +1,6 @@
 ---
 cite: |-
-  . 2007. "Pricing to Firm: An Analysis of Firm- and Product-Level Import Prices" Review of International Economics. 15(3), pp. 574-591.
+  Halpern, László and Miklós Koren. 2007. "Pricing to Firm: An Analysis of Firm- and Product-Level Import Prices" Review of International Economics. 15(3), pp. 574-591.
 links:
   - text: "Full text (open access)"
     url: "https://zenodo.org/record/1441396"

@@ -1,11 +1,11 @@
 ---
 cite: |-
-  Miklós Koren and Silvana Tenreyro. 2013. "Technological Diversification" American Economic Review. 103(1), pp. 378-414.
+  Koren, Miklós and Silvana Tenreyro. 2013. "Technological Diversification" American Economic Review. 103(1), pp. 378-414.
 links:
   - text: "Article"
-    url: "http://miklos.koren.hu/static/pdf/technological_diversification/aer.103.1.378.pdf"
+    url: "https://cdn.thnk.ng/pdf/technological_diversification/aer.103.1.378.pdf"
   - text: "Online appendix"
-    url: "http://resources.cefig.eu/papers/techdiv_online_appendix.pdf"
+    url: "https://cdn.thnk.ng/pdf/techdiv_online_appendix.pdf"
   - text: "Replication data on github"
     url: "http://goo.gl/TkX3W"
 statement: ""

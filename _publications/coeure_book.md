@@ -1,6 +1,6 @@
 ---
 cite: |-
-  Cecília Hornok and Miklós Koren. 2017. "Winners and Losers of Globalization: Sixteen Challenges for Measurement and Theory"
+  Hornok, Cecília and Miklós Koren. 2017. "Winners and Losers of Globalization: Sixteen Challenges for Measurement and Theory", in L. Matyas et al. (eds.) Economics without Borders: Economic Research for European Policy Challenges. Cambridge: Cambridge University Press, pp. 238–273.
 links:
   - text: "Publisher's website"
     url: "https://doi.org/10.1017/9781316636404.008"

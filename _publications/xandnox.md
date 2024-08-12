@@ -1,9 +1,9 @@
 ---
 cite: |-
-  Roc Armenter and Miklós Koren. 2015. "Economies of Scale and the Size of Exporters" Journal of the European Economic Association. 13(3), pp. 482-511.
+  Armenter, Roc and Miklós Koren. 2015. "Economies of Scale and the Size of Exporters" Journal of the European Economic Association. 13(3), pp. 482-511.
 links:
   - text: "Full text"
-    url: "http://miklos.koren.hu/static/pdf/exporter_size.pdf"
+    url: "https://cdn.thnk.ng/pdf/exporter_size.pdf"
   - text: "Link to publisher website"
     url: "http://onlinelibrary.wiley.com/doi/10.1111/jeea.12108/abstract"
 statement: ""

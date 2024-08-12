@@ -1,8 +1,9 @@
+---
 cite: |-
-  Francesco Caselli, Miklós Koren, Milan Lisicky and Silvana Tenreyro. 2020. "Diversification through Trade" Quarterly Journal of Economics. 135(1), pp. 449-502.
+  Caselli, Francesco, Miklós Koren, Milan Lisicky and Silvana Tenreyro. 2020. "Diversification through Trade" Quarterly Journal of Economics. 135(1), pp. 449-502.
 links:
   - text: "Full text"
-    url: "/static/pdf/diversification-through-trade.pdf"
+    url: "https://cdn.thnk.ng/pdf/diversification-through-trade.pdf"
   - text: "Column on VoxEU"
     url: "http://www.voxeu.org/article/macro-diversification-through-trade"
   - text: "Publisher's website"

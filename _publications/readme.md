@@ -1,6 +1,6 @@
 ---
 cite: |-
-  Lars Vilhuber, Connolly, Marie, Koren, Miklós, Llull, Joan, and Morrow, Peter. 2022. "A template README for social science replication packages"
+  Vilhuber, Lars, Connolly, Marie, Koren, Miklós, Llull, Joan, and Morrow, Peter. 2022. "A template README for social science replication packages"
 links:
   - text: "Website"
     url: "https://social-science-data-editors.github.io/template_README/"

@@ -1,5 +1,6 @@
+---
 cite: |-
-  . 2001. "Employment Response to Real Exchange Rate Movements: Evidence from Hungarian Exporting Firms" Hungarian Statistical Review. 79(S6), pp. 24–44.
+  Koren, Miklós. 2001. "Employment Response to Real Exchange Rate Movements: Evidence from Hungarian Exporting Firms" Hungarian Statistical Review. 79(S6), pp. 24–44.
 links:
   - text: "Full text (open access)"
     url: "http://doi.org/10.5281/zenodo.1465449"

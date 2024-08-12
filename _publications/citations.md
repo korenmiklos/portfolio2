@@ -14,8 +14,8 @@ title: "Fürdővízzel a gyereket?"
 date: 2022-12-07
 tags:
   - other
-description: ""
+description: "Mérhető-e a tudományos teljesítmény, legyen szó akár egyénekről (kutatókról), akár intézményekről (például tanszékekről, kutatóintézetekről, egyetemekről, vállalati laboratóriumokról)? A tudománymetria (scientometrics) története a hatvanas évekig nyúlik vissza, 1978 óta saját havi folyóirata van, művelői nemzetközi egyesületbe tömörülnek, sokfelé használt mérési módszertana, mutatórendszere folyamatosan gazdagodik. De vajon ment-e a tudománymetria által a világ elébb? Eredményei hasznos iránytűként szolgálnak, vagy inkább tévutakra vezetnek? Kicsit általánosabban fogalmazva: félni kell-e a számoktól, a számszerű adatoktól, a matematikai formuláktól, rangsoroktól akkor, ha a tudományos munka értékeléséről van szó?"
 
 ---
-
+Mérhető-e a tudományos teljesítmény, legyen szó akár egyénekről (kutatókról), akár intézményekről (például tanszékekről, kutatóintézetekről, egyetemekről, vállalati laboratóriumokról)? A tudománymetria (scientometrics) története a hatvanas évekig nyúlik vissza, 1978 óta saját havi folyóirata van, művelői nemzetközi egyesületbe tömörülnek, sokfelé használt mérési módszertana, mutatórendszere folyamatosan gazdagodik. De vajon ment-e a tudománymetria által a világ elébb? Eredményei hasznos iránytűként szolgálnak, vagy inkább tévutakra vezetnek? Kicsit általánosabban fogalmazva: félni kell-e a számoktól, a számszerű adatoktól, a matematikai formuláktól, rangsoroktól akkor, ha a tudományos munka értékeléséről van szó?
 

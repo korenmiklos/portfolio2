@@ -1,9 +1,9 @@
 ---
 cite: |-
-  László Halpern, Miklós Koren and Adam Szeidl. 2015. "Imported Inputs and Productivity" American Economic Review. 105(12), pp. 3660-3703.
+  Halpern, László, Miklós Koren and Adam Szeidl. 2015. "Imported Inputs and Productivity" American Economic Review. 105(12), pp. 3660-3703.
 links:
   - text: "Full text"
-    url: "/static/pdf/imported-inputs-and-productivity.pdf"
+    url: "https://cdn.thnk.ng/pdf/imported-inputs-and-productivity.pdf"
   - text: "Google Scholar"
     url: "https://scholar.google.hu/citations?view_op=view_citation&citation_for_view=fFTegXUAAAAJ:4e5Qn2KL_jwC"
   - text: "Publisher website"

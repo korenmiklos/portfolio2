@@ -1,5 +1,6 @@
+---
 cite: |-
-  Gábor Békés, László Halpern, Miklós Koren and Balázs Muraközy. 2011. "Still standing: how European firms weathered the crisis - The third EFIGE policy report"
+  Békés, Gábor, László Halpern, Miklós Koren and Balázs Muraközy. 2011. "Still standing: how European firms weathered the crisis - The third EFIGE policy report"
 links:
   - text: "Link to Bruegel website"
     url: "http://www.bruegel.org/publications/publication-detail/publication/661-still-standing-how-european-firms-weathered-the-crisis-the-third-efige-policy-report/"

@@ -1,6 +1,6 @@
 ---
 cite: |-
-  Koren, Miklós, Connolly, Marie, Lull, Joan, and Vilhuber, Lars. 2022. "Data and Code Availability Standard"
+  Koren, Miklós, Connolly, Marie, Lull, Joan, and Vilhuber, Lars. 2022. "Data and Code Availability Standard" Available at https://datacodestandard.org/. DOI: 10.5281/zenodo.7436134
 links:
   - text: "Website"
     url: "https://datacodestandard.org/"

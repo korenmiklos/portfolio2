@@ -1,9 +1,9 @@
 ---
 cite: |-
-  Cecília Hornok and Miklós Koren. 2014. "Per-Shipment Costs and the Lumpiness of International Trade" Review of Economics and Statistics. 97(2), pp. 525-530.
+  Hornok, Cecília and Miklós Koren. 2014. "Per-Shipment Costs and the Lumpiness of International Trade" Review of Economics and Statistics. 97(2), pp. 525-530.
 links:
   - text: "Working paper version"
-    url: "http://miklos.koren.hu/static/pdf/per_shipment_costs/note.pdf"
+    url: "https://cdn.thnk.ng/pdf/per_shipment_costs/note.pdf"
   - text: "Link to publisher website"
     url: "http://dx.doi.org/10.1162/REST_a_00468"
   - text: "Replication code and data"

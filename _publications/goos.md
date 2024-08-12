@@ -1,6 +1,6 @@
 ---
 cite: |-
-  Gábor Békés, Julian Hinz, Miklós Koren and Aaron Lohmann. 2023. "The Geography of Production and Sourcing in the Weightless Economy: Evidence from Open-Source Software"
+  Békés, Gábor, Julian Hinz, Miklós Koren and Aaron Lohmann. 2023. "The Geography of Production and Sourcing in the Weightless Economy: Evidence from Open-Source Software"
 links: []
 statement: ""
 team:

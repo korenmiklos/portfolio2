@@ -1,11 +1,11 @@
 ---
 cite: |-
-  Márta Bisztray, Miklós Koren and Adam Szeidl. 2018. "Learning to Import from Your Peers" Journal of International Economics. 115(November), pp. 242-258.
+  Bisztray, Márta, Miklós Koren and Adam Szeidl. 2018. "Learning to Import from Your Peers" Journal of International Economics. 115(November), pp. 242-258.
 links:
   - text: "Full text (open access)"
     url: "https://doi.org/10.1016/j.jinteco.2018.09.010"
   - text: "Online Appendix"
-    url: "/static/pdf/import_spillovers/JIE-S-17-00329-OA.pdf"
+    url: "https://cdn.thnk.ng/pdf/import_spillovers/JIE-S-17-00329-OA.pdf"
   - text: "Replication code and data"
     url: "https://zenodo.org/record/1434685"
   - text: "VoxEU Column"

@@ -1,9 +1,9 @@
 ---
 cite: |-
-  Roc Armenter, Miklós Koren and Dávid Krisztián Nagy. 2014. "Bridges"
+  Armenter, Roc, Miklós Koren and Dávid Krisztián Nagy. 2014. "Bridges"
 links:
   - text: "Working paper"
-    url: "http://miklos.koren.hu/static/pdf/bridges.pdf"
+    url: "https://cdn.thnk.ng/pdf/bridges.pdf"
   - text: "Quadtree Python package to efficiently search points within a polygon"
     url: "https://github.com/ceumicrodata/quadtree"
   - text: "Slides"

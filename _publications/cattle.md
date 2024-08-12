@@ -1,9 +1,9 @@
 ---
 cite: |-
-  Péter Karádi and Miklós Koren. 2017. "Cattle, Steaks and Restaurants: Development Accounting when Space Matters"
+  Karádi, Péter and Miklós Koren. 2017. "Cattle, Steaks and Restaurants: Development Accounting when Space Matters"
 links:
   - text: "Manuscript"
-    url: "http://miklos.koren.hu/static/pdf/cattle.pdf"
+    url: "https://cdn.thnk.ng/pdf/cattle.pdf"
 statement: ""
 team:
   - "karadi"
