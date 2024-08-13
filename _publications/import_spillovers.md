@@ -15,7 +15,11 @@ team:
   - "bisztray"
   - "koren"
   - "szeidl"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Learning to Import from Your Peers"
 date: 2018-11-01
 tags:

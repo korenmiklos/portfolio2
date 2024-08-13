@@ -8,7 +8,11 @@ statement: ""
 team:
   - "peto"
   - "koren"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Mely iparágakban és régiókban van lehetőség hosszú távon is távmunkára?"
 date: 2021-12-20
 tags:

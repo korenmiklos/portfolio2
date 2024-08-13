@@ -8,7 +8,11 @@ statement: ""
 team:
   - "koren"
   - "toth"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "A külkereskedelem hatása a vállalati munkaerőre és a bérek alakulására"
 date: 2012-08-01
 tags:

@@ -8,7 +8,11 @@ statement: ""
 team:
   - hornok
   - "koren"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Winners and Losers of Globalization: Sixteen Challenges for Measurement and Theory"
 date: 2017-03-01
 tags:

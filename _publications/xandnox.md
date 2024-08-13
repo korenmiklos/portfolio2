@@ -10,7 +10,11 @@ statement: ""
 team:
   - "armenter"
   - "koren"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Economies of Scale and the Size of Exporters"
 date: 2015-06-01
 tags:

@@ -12,7 +12,11 @@ team:
   - "connolly"
   - "lull"
   - "vilhuber"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Data and Code Availability Standard"
 date: 2022-12-15
 tags:

@@ -12,7 +12,11 @@ statement: ""
 team:
   - armenter
   - "koren"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "A Balls-and-Bins Model of Trade: Reply"
 date: 2016-03-01
 tags:

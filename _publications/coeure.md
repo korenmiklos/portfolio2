@@ -8,7 +8,11 @@ statement: ""
 team:
   - "hornok"
   - "koren"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Trade and Development in a Globalized World: The Roadmap for a Research Agenda"
 date: 2015-10-08
 tags:

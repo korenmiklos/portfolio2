@@ -14,7 +14,11 @@ statement: "The mobility data used in this paper is proprietary, but may be obta
 team:
   - "koren"
   - "peto"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Business disruptions from social distancing"
 date: 2020-09-18
 tags:

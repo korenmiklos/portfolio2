@@ -10,7 +10,11 @@ statement: ""
 team:
   - "koren"
   - "tenreyro"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Volatility, diversification and development in the Gulf Cooperation Council countries"
 date: 2012-06-01
 tags:

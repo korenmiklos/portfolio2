@@ -10,7 +10,11 @@ team:
   - "chariag"
   - "kiss"
   - "koren"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Can Machine Learning Beat Gravity for Predicting Flows?"
 date: 2024-02-02
 tags:

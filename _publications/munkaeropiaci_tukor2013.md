@@ -8,7 +8,11 @@ statement: ""
 team:
   - "koren"
   - "toth"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "The impact of international trade on employment and wages"
 date: 2013-05-01
 tags:

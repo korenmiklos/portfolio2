@@ -7,7 +7,11 @@ links:
 statement: ""
 team:
   - "koren"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "eventbaseline - Correct Event Study After xthdidregress"
 date: "2024-01-23"
 tags:

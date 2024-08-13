@@ -8,7 +8,11 @@ statement: ""
 team:
   - "koren"
   - "telegdy"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Expatriate Managers: Effects on Firm Performance"
 date: "2024-06-07"
 tags:

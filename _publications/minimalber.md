@@ -10,7 +10,11 @@ team:
   - "koren"
   - "korosi"
   - "vincze"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "A minimálbér költségvetési hatásai"
 date: 2004-01-01
 tags:

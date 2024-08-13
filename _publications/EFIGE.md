@@ -12,7 +12,11 @@ team:
   - "halpern"
   - "koren"
   - "murakozy"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Still standing: how European firms weathered the crisis - The third EFIGE policy report"
 date: "2011-12-22"
 tags:

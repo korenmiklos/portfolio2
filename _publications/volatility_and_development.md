@@ -14,7 +14,11 @@ statement: ""
 team:
   - "koren"
   - tenreyro
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Volatility and Development"
 date: 2007-02-01
 tags:

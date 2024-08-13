@@ -13,7 +13,11 @@ team:
   - "koren"
   - "llull"
   - "morrow"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "A template README for social science replication packages"
 date: 2022-11-05
 tags:

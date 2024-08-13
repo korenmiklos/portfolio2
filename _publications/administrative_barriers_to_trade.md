@@ -10,7 +10,11 @@ statement: ""
 team:
   - "koren"
   - "hornok"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Administrative Barriers to Trade"
 date: 2015-01-07
 tags:

@@ -16,7 +16,11 @@ team:
   - "koren"
   - "lisicky"
   - "tenreyro"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Diversification through Trade"
 date: "2020-02-01"
 tags:

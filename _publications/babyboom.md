@@ -9,7 +9,11 @@ statement: ""
 team:
   - "koren"
   - "orban"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "The Macroeconomics of Managers: Supply, Selection, and Competition\n"
 date: 2023-09-29
 tags:

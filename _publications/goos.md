@@ -8,7 +8,11 @@ team:
   - "hinz"
   - "koren"
   - "lohmann"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "The Geography of Production and Sourcing in the Weightless Economy: Evidence from Open-Source Software"
 date: 2023-09-30
 tags:

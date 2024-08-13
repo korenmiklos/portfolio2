@@ -8,7 +8,11 @@ statement: ""
 team:
   - "karadi"
   - "koren"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Cattle, Steaks and Restaurants: Development Accounting when Space Matters"
 date: 2017-06-22
 tags:

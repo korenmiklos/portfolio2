@@ -9,7 +9,11 @@ team:
   - "koren"
   - "csillag"
   - "kollo"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Machines and Machinists: Incremental technical change and wage inequality\n"
 date: 2020-02-29
 tags:

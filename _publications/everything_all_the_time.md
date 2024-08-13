@@ -8,7 +8,11 @@ statement: ""
 team:
   - "armenter"
   - "koren"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Everything all the time? Entry and Exit in U.S. Import Varieties"
 date: "2013-04-01"
 tags:

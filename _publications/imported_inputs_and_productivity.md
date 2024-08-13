@@ -15,7 +15,11 @@ team:
   - "halpern"
   - "koren"
   - "szeidl"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Imported Inputs and Productivity"
 date: 2015-12-01
 tags:

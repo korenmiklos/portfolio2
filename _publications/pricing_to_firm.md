@@ -8,7 +8,11 @@ statement: ""
 team:
   - halpern
   - "koren"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Pricing to Firm: An Analysis of Firm- and Product-Level Import Prices"
 date: 2007-08-01
 tags:

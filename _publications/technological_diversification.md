@@ -12,7 +12,11 @@ statement: ""
 team:
   - "koren"
   - "tenreyro"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Technological Diversification"
 date: 2013-02-03
 tags:

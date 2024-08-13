@@ -13,7 +13,11 @@ team:
   - "armenter"
   - "koren"
   - "nagy"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Bridges"
 date: 2014-07-23
 tags:

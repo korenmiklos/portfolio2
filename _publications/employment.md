@@ -7,7 +7,11 @@ links:
 statement: ""
 team:
   - "koren"
-sponsors: []
+grants:
+# - name: EU
+#   image: /assets/images/grant-1.png
+# - name: Nemzeti
+#   image: /assets/images/grant-2.png
 title: "Employment Response to Real Exchange Rate Movements: Evidence from Hungarian Exporting Firms"
 date: "2001-11-01"
 tags:
