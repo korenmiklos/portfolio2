@@ -1,27 +1,23 @@
 # File: .github/workflows/update-from-data.yml
 name: Update from Data Repository
-
 on:
   repository_dispatch:
     types: [update-from-data]
-
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout portfolio repository
         uses: actions/checkout@v3
-
       - name: Checkout data repository
         uses: actions/checkout@v3
         with:
           repository: korenmiklos/remote-theme
           path: temp-data
-
       - name: Update files from data repository
         run: |
           # List of files and folders to manage
-          items_to_manage=(
+          files_to_manage=(
             "_courses"
             "_data"
             "_software"
@@ -29,20 +25,20 @@ jobs:
             "software.md"
             "home-courses.md"
             "search-courses.json"
-            "index.md"  # Include this to ensure it's removed if it exists
+            "index.md"
             # Add more files or folders as needed
           )
 
-          # Remove existing items using git rm
-          for item in "${items_to_manage[@]}"; do
+          # Remove existing items using git rm with force
+          for item in "${files_to_manage[@]}"; do
             if [ -e "$item" ]; then
-              git rm -r "$item"
+              git rm -rf "$item"
               echo "Removed $item from Git tracking"
             fi
           done
 
           # Copy items from temp-data
-          for item in "${items_to_manage[@]}"; do
+          for item in "${files_to_manage[@]}"; do
             if [ -e "temp-data/$item" ]; then
               cp -R "temp-data/$item" .
               git add "$item"
@@ -52,15 +48,18 @@ jobs:
             fi
           done
           
-          # Special handling for home-courses.md
+          # Special handling for home-courses.md and index.md
           if [ -f "home-courses.md" ]; then
+            if [ -f "index.md" ]; then
+              # If both files exist, remove index.md and rename home-courses.md
+              git rm -f index.md
+              echo "Removed existing index.md"
+            fi
             git mv home-courses.md index.md
             echo "Renamed home-courses.md to index.md"
-          else
-            echo "home-courses.md not found, skipping rename"
+          elif [ ! -f "index.md" ]; then
+            echo "Neither home-courses.md nor index.md found"
           fi
-
-
       - name: Remove temp-data folder
         run: rm -rf temp-data
           
@@ -68,6 +67,5 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add .
           git commit -m "Update from data repository" || echo "No changes to commit"
           git push
