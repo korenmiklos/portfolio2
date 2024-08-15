@@ -6,7 +6,7 @@ credits:
 date: 2022-01-10
 tags: [missing]
 categories: [ceu]
-instructors: [missing]
+instructors: [csoka]
 website: missing
 github: missing
 moodle: missing

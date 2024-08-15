@@ -1,9 +1,9 @@
 ---
-title: Reproducible Research from Day 1
+title: Reproducible Research from Day One
 code: missing
 description: missing
 credits: 
-date: missing
+date: 2023-08-26
 tags: [missing]
 categories: [dataeditor]
 instructors: [missing]

@@ -3,7 +3,7 @@ title: Economics with Stata
 code: missing
 description: missing
 credits: 
-date: missing
+date: 2020-06-01
 tags: [missing]
 categories: [carpentries]
 instructors: [missing]
