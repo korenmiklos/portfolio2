@@ -18,10 +18,10 @@ jobs:
           repository: korenmiklos/remote-theme
           path: temp-data
 
-      - name: Copy files from data repository
+      - name: Update files from data repository
         run: |
-          # List of files and folders to copy (customize for each portfolio)
-          files_to_copy=(
+          # List of files and folders to manage
+          items_to_manage=(
             "_courses"
             "_data"
             "_software"
@@ -29,18 +29,37 @@ jobs:
             "software.md"
             "home-courses.md"
             "search-courses.json"
+            "index.md"  # Include this to ensure it's removed if it exists
             # Add more files or folders as needed
           )
 
-          for item in "${files_to_copy[@]}"; do
-            cp -R "temp-data/$item" .
+          # Remove existing items using git rm
+          for item in "${items_to_manage[@]}"; do
+            if [ -e "$item" ]; then
+              git rm -r "$item"
+              echo "Removed $item from Git tracking"
+            fi
+          done
+
+          # Copy items from temp-data
+          for item in "${items_to_manage[@]}"; do
+            if [ -e "temp-data/$item" ]; then
+              cp -R "temp-data/$item" .
+              git add "$item"
+              echo "Copied and staged $item"
+            else
+              echo "Warning: $item not found in temp-data"
+            fi
           done
           
+          # Special handling for home-courses.md
           if [ -f "home-courses.md" ]; then
-            mv home-courses.md index.md
+            git mv home-courses.md index.md
+            echo "Renamed home-courses.md to index.md"
           else
             echo "home-courses.md not found, skipping rename"
           fi
+
 
       - name: Remove temp-data folder
         run: rm -rf temp-data
