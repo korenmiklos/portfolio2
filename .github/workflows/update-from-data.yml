@@ -20,10 +20,14 @@ jobs:
           files_to_manage=(
             "_courses"
             "_data"
+            "_datasets"
+            "_events"
             "_software"
             "_publications"
             "software.md"
-            "home-courses.md"
+            "datasets.md"
+            "events.md"
+            "home-courses2.md"
             "search-courses.json"
             "index.md"
             # Add more files or folders as needed
@@ -48,17 +52,17 @@ jobs:
             fi
           done
           
-          # Special handling for home-courses.md and index.md
-          if [ -f "home-courses.md" ]; then
+          # Special handling for home-courses2.md and index.md
+          if [ -f "home-courses2.md" ]; then
             if [ -f "index.md" ]; then
-              # If both files exist, remove index.md and rename home-courses.md
+              # If both files exist, remove index.md and rename home-courses2.md
               git rm -f index.md
               echo "Removed existing index.md"
             fi
-            git mv home-courses.md index.md
-            echo "Renamed home-courses.md to index.md"
+            git mv home-courses2.md index.md
+            echo "Renamed home-courses2.md to index.md"
           elif [ ! -f "index.md" ]; then
-            echo "Neither home-courses.md nor index.md found"
+            echo "Neither home-courses2.md nor index.md found"
           fi
       - name: Remove temp-data folder
         run: rm -rf temp-data
