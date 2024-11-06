@@ -48,12 +48,37 @@ collections:
     output: false
   software:
     output: false
+  events:
+    output: true
+    permalink: /:collection/:name
+  datasets:
+    output: true
+    permalink: /:collection/:name
 
 # Defaults
 defaults:
   - scope:
       path: ""
+      type: publications
+    values:
+      layout: publication
+  - scope:
+      path: ""
       type: courses
     values:
       layout: course
-
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: event
+  - scope:
+      path: ""
+      type: datasets
+    values:
+      layout: dataset
