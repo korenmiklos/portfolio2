@@ -22,7 +22,7 @@ links:
 
 The course introduces two building blocks of macroeconomic modeling: forward-looking dynamic models and general equilibrium with heterogeneous agents. These tools are applied to problems of economic growth, labor market search, and industry dynamics. Quantitative model solutions are also illustrated using the Julia programming language.
 
-![Photo by <a href="https://unsplash.com/@osmank?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Osman Köycü</a> on <a href="https://unsplash.com/photos/top-view-photography-of-lighted-city-c6qF_lYvu2I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>](/assets/images/content.jpg)
+![Photo by <a href="https://unsplash.com/@osmank?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Osman Köycü</a> on <a href="https://unsplash.com/photos/top-view-photography-of-lighted-city-c6qF_lYvu2I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>](/assets/images/stock/osman-koycu-c6qF_lYvu2I-unsplash.jpg)
 
 ## 1. Course Description
 ### Content
