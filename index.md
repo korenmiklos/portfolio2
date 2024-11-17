@@ -4,14 +4,14 @@ title: Courses
 
 events:
   heading: Upcoming events
-  copy: A little introduction what the reader can find here lorem ipsum dolor sit amet consectetur adipiscing elit tortor.
+  copy: Join conference talks, workshops, and other events.
   button:
     text: More events
     url: "/events/"
 
 software:
   heading: Download software
-  copy: A little introduction what the reader can find here lorem ipsum dolor sit amet consectetur adipiscing elit tortor.
+  copy: Software tools for research and data analysis.
   button:
     text: More software
     url: /software/
