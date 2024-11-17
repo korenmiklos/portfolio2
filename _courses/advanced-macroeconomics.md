@@ -6,15 +6,14 @@ credits:
 date: 2024-09-16
 tags: 
 categories: [ceu]
-instructors: [barany,koren]
+instructors: 
+  - barany
+  - koren
 website: 
 github: 
 moodle: https://ceulearning.ceu.edu/course/view.php?id=17673
 video: 
 image: /assets/images/stock/osman-koycu-c6qF_lYvu2I-unsplash.jpg
-author: 
-  - barany
-  - koren
 links:
   - text: Moodle
     url: "https://ceulearning.ceu.edu/course/view.php?id=17673"
