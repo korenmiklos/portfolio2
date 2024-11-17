@@ -12,7 +12,9 @@ github:
 moodle: https://ceulearning.ceu.edu/course/view.php?id=17673
 video: 
 image: /assets/images/stock/osman-koycu-c6qF_lYvu2I-unsplash.jpg
-author: koren
+author: 
+  - barany
+  - koren
 links:
   - text: Moodle
     url: "https://ceulearning.ceu.edu/course/view.php?id=17673"
@@ -41,20 +43,6 @@ By the end of the course, students will be able to
 * Analyze industry equilibrium with heterogeneous firms.
 * Understand the importance of input-output linkages in macroeconomic contexts.
 * Solve dynamic programming problems and ordinary differential equations using Julia.
-
-
-### Other outcomes
-The course will also help develop skills in the following areas.
-
-Learning Area | Learning Outcome
---|--
-Critical thinking | 
-Quantitative reasoning | 
-Technology skills | 
-Interpersonal communication skills | 
-Management knowledge and skills | 
-Cultural sensitivity and diversity | 
-Ethics and social responsibility | 
 
 
 ## 3. Reading List
@@ -90,15 +78,15 @@ Grading will be based on the total score out of 100, in line with CEU’s standa
 
 ## 7. Topic Outline and Schedule
 
-Session | Topics | Readings
---|--|--
-Weeks 1-2 | Growth facts, the Solow and the Ramsey model | []
-Weeks 3-5 | Overlapping generations model and introduction to dynamic programming | []
-Weeks 6-10 | Linear algebra, dynamic programming and ODEs in Julia | []
-Weeks 11-12 | Endogenous growth | []
-Weeks 13-16 | Search and matching models of the labor market | []
-Weeks 17-18 | Industry equilibrium models of heterogeneous firms | []
-Weeks 19-20 | The Hopenhayn model of industry dynamics | []
-Weeks 21-22 | Solving industry dynamics models in Julia | []
-Weeks 23-24 | Input-output linkages | []
+Session | Topics 
+--|--
+Weeks 1-2 | Growth facts, the Solow and the Ramsey model
+Weeks 3-5 | Overlapping generations model and introduction to dynamic programming
+Weeks 6-10 | Linear algebra, dynamic programming and ODEs in Julia
+Weeks 11-12 | Endogenous growth
+Weeks 13-16 | Search and matching models of the labor market
+Weeks 17-18 | Industry equilibrium models of heterogeneous firms
+Weeks 19-20 | The Hopenhayn model of industry dynamics
+Weeks 21-22 | Solving industry dynamics models in Julia
+Weeks 23-24 | Input-output linkages
 
