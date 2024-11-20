@@ -24,6 +24,7 @@ jobs:
             "_events"
             "_software"
             "_publications"
+            "assets"
             "software.md"
             "datasets.md"
             "events.md"
