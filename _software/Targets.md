@@ -2,6 +2,7 @@
 title: Targets.jl
 description: Computational pipeline management for Julia
 date: 2024-08-15
+language: julia
 categories:
 - julia
 code: |-

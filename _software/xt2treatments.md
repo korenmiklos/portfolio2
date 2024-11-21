@@ -2,6 +2,7 @@
 title: xt2treatments
 description: event studies with two treatments
 date: 2024-05-21
+language: stata
 categories:
 - stata
 code: |-

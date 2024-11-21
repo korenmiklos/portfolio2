@@ -2,6 +2,7 @@
 title: eventbaseline
 description: Correct Event Study After `xthdidregress`
 date: 2024-01-23
+language: stata
 categories:
 - stata
 code: |-
