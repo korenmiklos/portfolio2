@@ -10,7 +10,7 @@ remote_theme: korenmiklos/remote-theme
 
 website: courses # options: blog | courses | publications
 
-google_analytics: 
+plausible: koren.dev
 
 markdown: kramdown
 highlighter: rouge
