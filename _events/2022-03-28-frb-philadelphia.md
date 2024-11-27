@@ -12,7 +12,9 @@ image: https://images.unsplash.com/photo-1685134895237-f320ec7aa385?crop=entropy
 categories:
 - seminar
 - macromanagers
-event_date: '2022-03-28'
+tag:
+- macromanagers
+event_date: 2022-03-28
 location: online
 links:
 - text: Slides
