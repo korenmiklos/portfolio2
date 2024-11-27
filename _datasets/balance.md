@@ -1,7 +1,7 @@
 ---
 title: Hungarian balance sheet and income statement
 description: Hungarian balance and income statement data. 
-date: 2024-09-13
+date: 2024.09.13
 extent:
   records: 11M+
   size: 20GB
