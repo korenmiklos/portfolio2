@@ -1,7 +1,7 @@
 ---
-title: GitHub Torrent metadata snapshot
-description: Short paragraph lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique eu lectus facilisis volutpat. Curabitur tristique eget eros non sodales. Mauris at nibh sit amet quam aliquet maximus nec nec sapien.
-date: 2014-01-01
+title: German Commercial Register
+description: A German Commercial Register (German: Handelsregister) is a public company register that contains details of all tradespeople and legal entities in the district of the registrar. [https://en.wikipedia.org/wiki/German_Commercial_Register]. The Palturai GMBH creates a product called BusinessGraph from it: a graph consisting of many millions of active and inactive companies, people and current and historical relationships. 
+date: 2024.11.07.
 extent:
   records: 10M+
   size: 300GB
@@ -15,10 +15,11 @@ entities:
 subject:
 - managers
 - germany
+- business graph
 publisher: Palturai GmbH
-creator: 
-distributor: 
-bibliographicCitation: Palturai, 2024. “BusinessGraph [data set]” Palturai GmbH, Hofheim am Taunus. Available at palturai.com. Last accessed 2024-09-06.
+creator: Palturai GmbH
+distributor: CEU MicroData 
+bibliographicCitation: Palturai, 2024. “BusinessGraph [data set]” Palturai GmbH, Hofheim am Taunus, Germany. Available at palturai.com. Last accessed 2024-11-07.
 rights: Data is proprietary. Usage is subject to a licensing agreement with Palturai GmbH. Used with permission under agreement number XYZ (2023-11-01).
 acknowledgement: This research was supported by the European Commission (ERC Advanced Grant agreement number XYZ). The European Union is not responsible for any errors.
 format:
@@ -44,6 +45,3 @@ tag:
 | John von Neuman | 1992-01-01 | Game Theory Co. | Owner |
 | John von Neuman | 1992-01-01 | Game Theory Co. | Owner |
 | John von Neuman | 1992-01-01 | Game Theory Co. | Owner |
-
-Longform paragraph lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique eu lectus facilisis volutpat. Curabitur tristique eget eros non sodales. Mauris at nibh sit amet quam aliquet maximus nec nec sapien. Proin sollicitudin condimentum orci, vitae hendrerit tortor cursus in. Morbi volutpat massa eget erat vulputate, in bibendum ex fermentum. Vestibulum dapibus eros in est iaculis convallis. Fusce ultrices, dolor non lobortis dignissim, magna ante volutpat ex, in finibus elit purus in neque.
-
