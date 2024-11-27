@@ -4,7 +4,7 @@ description: Hübner’s Who is Who Hungary contains biographies of many people 
 date: 2024.10.14
 extent:
   records: 10k+
-  size: 20GB
+  size: 200MB
 accessRights: Restricted use
 coverage: 
   spatial: Hungary
@@ -20,7 +20,7 @@ creator: CEU Microdata
 distributor: CEU Microdata
 bibliographicCitation: HUN-REN KRTK, 2024. Publisher Hübner Zrt, Budapest. Contributions by CEU MicroData.
 rights: Data is proprietary. Usage is subject to a licensing agreement with Hübner Kft. 
-acknowledgement: This research was supported by the European Commission (ERC Advanced Grant agreement number 101097789) "[https://cordis.europa.eu/project/id/101097789]". The European Union is not responsible for any errors.
+acknowledgement: This research was supported by the European Commission (ERC Advanced Grant agreement number 101097789) [ERC](https://cordis.europa.eu/project/id/101097789). The European Union is not responsible for any errors.
 format:
 - .csv
 identifier: "#"
