@@ -20,7 +20,7 @@ subject:
 publisher: Opten Kft.
 creator: CEU MicroData 
 distributor: CEU MicroData 
-bibliographicCitation: Opten. 2024. “Cégtár [data set]”. Opten Zrt, Budapest. Contributions by CEU MicroData.
+bibliographicCitation: Opten. 2024. [Cégtár] [data set]”. Opten Zrt, Budapest. Contributions by CEU MicroData.
 rights: Data is proprietary. Usage is subject to a licensing agreement with Opten Kft.
 acknowledgement: This research was supported by the European Commission (ERC Advanced Grant agreement number XYZ). The European Union is not responsible for any errors.
 format:
@@ -54,7 +54,4 @@ tag:
 - relation/firm_network_common_owner.csv
 - relation/owner_network_common_firm.csv
 - relation/firm_network_common_address.csv
-
-
-Longform paragraph lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique eu lectus facilisis volutpat. Curabitur tristique eget eros non sodales. Mauris at nibh sit amet quam aliquet maximus nec nec sapien. Proin sollicitudin condimentum orci, vitae hendrerit tortor cursus in. Morbi volutpat massa eget erat vulputate, in bibendum ex fermentum. Vestibulum dapibus eros in est iaculis convallis. Fusce ultrices, dolor non lobortis dignissim, magna ante volutpat ex, in finibus elit purus in neque.
 
