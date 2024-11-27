@@ -32,6 +32,8 @@ links:
     url: "#"
   - text: "Replication code and data"
     url: "#"
+tag:
+  - macromanagers
 ---
 
 | Name | Date | Company | Relation |
