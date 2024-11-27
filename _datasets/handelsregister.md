@@ -1,6 +1,6 @@
 ---
 title: German Commercial Register
-description: A German Commercial Register (German: Handelsregister) is a public company register that contains details of all tradespeople and legal entities in the district of the registrar. [https://en.wikipedia.org/wiki/German_Commercial_Register]. The Palturai GMBH creates a product called BusinessGraph from it: a graph consisting of many millions of active and inactive companies, people and current and historical relationships. 
+description: A German Commercial Register (Handelsregister) is a public company register that contains details of all tradespeople and legal entities in the district of the registrar. "[https://en.wikipedia.org/wiki/German_Commercial_Register]". The Palturai GMBH creates a product called BusinessGraph from it. This graph consisting of many millions of active and inactive companies, people and current and historical relationships. 
 date: 2024.11.07.
 extent:
   records: 10M+
@@ -45,3 +45,4 @@ tag:
 | John von Neuman | 1992-01-01 | Game Theory Co. | Owner |
 | John von Neuman | 1992-01-01 | Game Theory Co. | Owner |
 | John von Neuman | 1992-01-01 | Game Theory Co. | Owner |
+
