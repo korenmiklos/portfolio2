@@ -9,4 +9,6 @@ code: |-
     here
     import delimited "${here}/data/raw/bls/employment.csv"
 download_url: "https://github.com/korenmiklos/here/"
+tags:
+- macromanagers
 ---

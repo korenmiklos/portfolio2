@@ -11,5 +11,7 @@ code: |-
     @replace distance = 5 @if distance < 5
 download_url: "https://github.com/codedthinking/Kezdi.jl"
 docs: "https://codedthinking.github.io/Kezdi.jl/stable/"
+tags:
+- macromanagers
 ---
 

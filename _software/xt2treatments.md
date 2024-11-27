@@ -8,4 +8,6 @@ categories:
 code: |-
     xt2treatments y, treatment(treatmentB) control(treatmentA) pre(1) post(3) weighting(equal)
 download_url: "https://github.com/codedthinking/xt2treatments/"
+tags:
+- macromanagers
 ---

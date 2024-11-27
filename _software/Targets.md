@@ -17,5 +17,7 @@ code: |-
     @get c
 download_url: "https://github.com/codedthinking/Targets.jl"
 docs: "https://github.com/codedthinking/Targets.jl"
+tags:
+- macromanagers
 ---
 
