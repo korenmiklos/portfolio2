@@ -13,10 +13,7 @@ team:
   - koren
   - hornok
 grants:
-# - name: EU
-#   image: /assets/images/grant-1.png
-# - name: Nemzeti
-#   image: /assets/images/grant-2.png
+- erc-starting-2012
 title: "Per-Shipment Costs and the Lumpiness of International Trade"
 date: 2014-01-01
 tags:

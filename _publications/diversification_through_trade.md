@@ -17,10 +17,7 @@ team:
   - "lisicky"
   - "tenreyro"
 grants:
-# - name: EU
-#   image: /assets/images/grant-1.png
-# - name: Nemzeti
-#   image: /assets/images/grant-2.png
+- erc-starting-2012
 title: "Diversification through Trade"
 date: "2020-02-01"
 tags:

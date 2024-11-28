@@ -11,10 +11,7 @@ team:
   - "pal"
   - "szeidl"
 grants:
-# - name: EU
-#   image: /assets/images/grant-1.png
-# - name: Nemzeti
-#   image: /assets/images/grant-2.png
+- erc-starting-2012
 title: "Cégek kapcsolati hálózatainak gazdasági szerepe"
 date: 2014-11-13
 tags:

@@ -11,10 +11,7 @@ team:
   - "armenter"
   - "koren"
 grants:
-# - name: EU
-#   image: /assets/images/grant-1.png
-# - name: Nemzeti
-#   image: /assets/images/grant-2.png
+- erc-starting-2012
 title: "Economies of Scale and the Size of Exporters"
 date: 2015-06-01
 tags:

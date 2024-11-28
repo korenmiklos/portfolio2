@@ -16,10 +16,7 @@ team:
   - "koren"
   - "szeidl"
 grants:
-# - name: EU
-#   image: /assets/images/grant-1.png
-# - name: Nemzeti
-#   image: /assets/images/grant-2.png
+- erc-starting-2012
 title: "Learning to Import from Your Peers"
 date: 2018-11-01
 tags:

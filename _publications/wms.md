@@ -6,10 +6,8 @@ team:
   - kissg
   - koren
 grants:
-- name: ERC
-  image: /assets/images/grant-1.png
-- name: NKFIH
-  image: /assets/images/grant-2.png
+- erc-starting-2012
+- elvonal
 title: "Communist Era Managers in Modern Times: A Comparison of Management Skills Across Generations"
 date: 2024-11-01
 tags:

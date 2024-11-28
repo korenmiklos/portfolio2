@@ -11,10 +11,7 @@ team:
   - "koren"
   - "hornok"
 grants:
-# - name: EU
-#   image: /assets/images/grant-1.png
-# - name: Nemzeti
-#   image: /assets/images/grant-2.png
+- erc-starting-2012
 title: "Administrative Barriers to Trade"
 date: 2015-01-07
 tags:
