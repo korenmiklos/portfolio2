@@ -8,7 +8,7 @@ statement: ""
 team:
   - "ruzicska"
   - "chariag"
-  - "kiss"
+  - "kisso"
   - "koren"
 grants:
 # - name: EU
