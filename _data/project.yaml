@@ -1,0 +1,47 @@
+babyboom:
+  grants:
+    - elvonal
+    - erc-advanced-2022
+  status: presenting
+goos:
+  grants:
+    - rethink
+  status: presenting
+bugs:
+  grants:
+    - rethink
+  status: presenting
+Kezdi.jl:
+WMS:
+  grants:
+    - elvonal
+    - erc-advanced-2022
+  status: presenting
+foreign-experience:
+  grants:
+    - elvonal
+    - erc-advanced-2022
+  status: draft
+firms:
+  grants:
+    - elvonal
+    - erc-advanced-2022
+  status: draft
+procurement:
+machines:
+  grants:
+    - erc-starting-2012
+  status: revising
+expat:
+  grants:
+    - erc-starting-2012
+    - erc-advanced-2022
+    - elvonal
+  status: submitted
+trade-similarity: 
+  grants:
+    - respect
+  status: presenting
+social-distancing:
+  grants:
+  status: published
