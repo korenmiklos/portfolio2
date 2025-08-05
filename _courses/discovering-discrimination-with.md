@@ -14,18 +14,30 @@ video: missing
 image: /assets/images/course.jpg
 author: john
 links:
-  - text: Full text (open access, HTML)
-    url: "#"
-  - text: Full text (open access, PDF)
-    url: "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0239113&type=printable"
-  - text: VoxEU column
-    url: "#"
-  - text: Replication code and data
-    url: "#"
 ---
 
-This course is an immersive simulation game using the statistical concepts learned earlier to argue about patterns of gender discrimination in the workplace. The focus is on interpreting and communicating data analysis results rather than performing statistical calculations. Various assignments, including readings, essays, and presentations, reinforce the learned concepts.
+## Learn Statistics Through a Real-World Legal Drama
 
-![Lorem](/assets/images/content.jpg)
+Step into the courtroom and discover how data tells compelling stories in this innovative experiential learning course. You'll participate in a mock gender discrimination lawsuit as either plaintiff attorneys, defense counsel, or data science consultants, using real statistical methods to build your case.
 
-This is a placeholder for the full course content. You can add more details, syllabus, and other relevant information here.
+### What Makes This Course Unique
+
+**Hands-On Legal Simulation**: Work in competing teams to analyze actual workplace data and present your findings in a courtroom setting. No boring lectures—you'll learn by doing.
+
+**Physical Data Cards**: Experience statistics through our unique "Cardan Card" system—physical cards that make abstract statistical operations tangible and memorable.
+
+**Progressive Discovery**: Each session reveals new layers of complexity, from basic sampling issues to sophisticated causal analysis, with surprising twists that challenge your assumptions.
+
+### What You'll Master
+
+- **Statistical Reasoning**: Hypothesis testing, regression analysis, and recognizing bias in data
+- **Critical Thinking**: Distinguish correlation from causation, spot Simpson's paradox, evaluate statistical significance
+- **Professional Communication**: Present complex statistical findings persuasively to non-technical audiences
+- **Business Relevance**: Understand workplace discrimination, legal standards, and ethical decision-making
+
+### Course Format
+
+**Duration**: Intensive 2-day workshop (16 hours)  
+**Structure**: Team-based competition with courtroom presentations  
+**Assessment**: Real-time evaluation through peer critique and instructor feedback on expert reports and presentations
+
