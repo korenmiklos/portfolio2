@@ -18,6 +18,8 @@ links:
 
 ## Learn Statistics Through a Real-World Legal Drama
 
+![Lorem](/assets/images/content.jpg)
+
 Step into the courtroom and discover how data tells compelling stories in this innovative experiential learning course. You'll participate in a mock gender discrimination lawsuit as either plaintiff attorneys, defense counsel, or data science consultants, using real statistical methods to build your case.
 
 ### What Makes This Course Unique
