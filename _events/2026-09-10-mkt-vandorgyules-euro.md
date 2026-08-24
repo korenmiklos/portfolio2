@@ -4,6 +4,7 @@ speaker: Miklós Koren
 date: 2026-08-24
 aspectratio: 169
 code: missing
+image: /assets/images/event/mkt-euro-panel.jpg
 description: "Kerekasztal-beszélgetés a 64. Közgazdász-vándorgyűlésen. Moderátor: Takáts Előd (BIS). Résztvevők: Banai Ádám (MNB), Samu János (Concorde), Koren Miklós (CEU)."
 event_date: 2026-09-10
 location: "Hotel Eger & Park, Eger"
