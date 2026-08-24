@@ -1,7 +1,8 @@
 ---
 speaker: Miklós Koren
 title: CEU Research Excellence Award Ceremony
-description: Award ceremony for the 2026 CEU Research Excellence Award, presented by Pro-Rector Ágnes Bátory. Selection Committee chaired by Prof. Helga Nowotny.
+description: "Award ceremony for the 2026 CEU Research Excellence Award, presented by Pro-Rector Ágnes Bátory. Selection Committee chaired by Prof. Helga Nowotny."
+image: https://koren.dev/assets/images/stock/ceu-research-award.jpg
 categories:
 - ceu
 tags:
