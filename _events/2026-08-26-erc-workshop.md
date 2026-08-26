@@ -12,4 +12,7 @@ categories:
     - workshop
     - talk
 tags:
+links:
+  - text: Slides
+    url: https://github.com/korenmiklos/talks/blob/master/2026-08-26-ceu/README.pdf
 ---
